@@ -18,3 +18,4 @@ Below here will contain the capstone project for the program, including any docu
 - Software Development/Troubleshooting
 - Database Development/Management
 - Programming (Python, Java, C++, HTML)
+- Algorithm development
