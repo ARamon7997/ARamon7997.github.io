@@ -12,7 +12,6 @@ The projects that are below here have been done throughout the course of my tenu
 Below here will contain the capstone project for the program, including any documentation and enhancements done.
 
 - [Code Review](https://youtu.be/1sKHKxZL77g)
-
 - [Code Review Alternative Link](https://vimeo.com/1245650487/b2c709ba34?share=copy&fl=cl&fe=ci)
 
 ## Technical Skills
