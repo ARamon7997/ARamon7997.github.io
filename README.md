@@ -13,6 +13,9 @@ Below here will contain the capstone project for the program, including any docu
 
 - [Code Review](https://youtu.be/1sKHKxZL77g)
 - [Code Review Alternative Link](https://vimeo.com/1245650487/b2c709ba34?share=copy&fl=cl&fe=ci)
+- [Enhancement 1: Software design and engineering](https://github.com/ARamon7997/Capstone-Enhancement-1)
+- [Enhancement 2: Algorithms and data structure] ()
+- [Enhancement 3: Databases]()
 
 ## Technical Skills
 
